@@ -1,4 +1,6 @@
-## Hi there 👋
+I'm Dominick Silva, a biomedical engineering graduate passionate about designing and developing innovative medical devices that improve patient care. I specialize in CAD modeling, prototyping, and product development, with hands-on experience using tools like SolidWorks, MATLAB, and Python.
+
+I'm currently seeking entry-level opportunities in medical device R&D, quality assurance, or product development.
 
 <!--
 **DSilva28547/DSilva28547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
